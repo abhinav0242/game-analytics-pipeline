@@ -368,3 +368,6 @@ Read [`README.md`](https://github.com/trannhatnguyen2/data-engineer-mle2/tree/ma
 ---
 
 <p>&copy; 2024 NhatNguyen</p>
+
+# Game Analytics Pipeline
+Local pipeline with Airflow and Spark. Processes player telemetry for DAU insights. Forked from NYC_Taxi_Data_Pipeline. AWS S3 pending.
